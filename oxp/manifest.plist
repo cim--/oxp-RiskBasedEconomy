@@ -1,0 +1,10 @@
+{
+	"identifier" = "oolite.oxp.cim.risk-based-economy";
+	"required_oolite_version" = "1.81";
+	"title" = "Risk Based Economy";
+	"version" = "2.0";
+	"category" = "Mechanics";
+	"description" = "Adjusts cargo prices to make trading more diverse. Some \"safe\" goods get a bit more random variation, and dangerous systems get better prices than safe systems.";
+	"author" = "cim";
+	"license" = "CC-BY-SA 4.0";
+}

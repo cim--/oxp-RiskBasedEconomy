@@ -1,0 +1,5 @@
+{
+	universal = {
+		"market_script" = "risk-based-economy.js";
+	};
+}
